@@ -1,4 +1,4 @@
-package bankApplication;
+package bankapplication;
 
 public interface InterestRate {
 }
